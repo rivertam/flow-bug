@@ -1,0 +1,3 @@
+// @flow
+
+require('lodash/fp')
